@@ -1,0 +1,1001 @@
+Error,Machine,Description,Causes,FixSteps,Confidence,ManualRef
+Calibration Error,Inspection Camera IC7,Full System Fault,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,89%,REF-4565
+Hydraulic Leak,Pump Unit PU9,Full System Fault,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,99%,REF-4686
+Mechanical Jam,Packaging Machine P2,Coolant Leak,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,99%,REF-7432
+Hydraulic Leak,Pump Unit PU9,Spindle Overheat,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,70%,REF-8615
+Power Surge,Robot Arm R3,Pump Vibration,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,85%,REF-6050
+Sensor Fault,Packaging Machine P2,Spindle >80°C,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,83%,REF-4910
+Sensor Fault,Pump Unit PU9,Hydraulic <1.2bar,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,78%,REF-8765
+Valve Failure,Robot Arm R3,Spindle Overheat,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,73%,REF-2691
+Overheating,Robot Arm R3,Hydraulic Low,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,78%,REF-8143
+Pressure Drop,Conveyor A1,Hydraulic Low,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,87%,REF-4278
+Sensor Fault,Inspection Camera IC7,,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,91%,REF-8203
+Calibration Error,Inspection Camera IC7,Coolant Leak,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,79%,REF-6508
+Software Crash,Laser Cutter L2,Hydraulic <1.2bar,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,90%,REF-9775
+Hydraulic Leak,Packaging Machine P2,Coolant Leak,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,77%,REF-7444
+Hydraulic Leak,Packaging Machine P2,Pump Vibration,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,80%,REF-7659
+Sensor Fault,Packaging Machine P2,,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,93%,REF-4740
+Power Surge,Robot Arm R3,Spindle Overheat,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,84%,REF-9595
+Pressure Drop,Conveyor A1,Vibration Z-Axis,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,78%,REF-8368
+Hydraulic Leak,Inspection Camera IC7,Coolant Leak,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-8631
+Valve Failure,Conveyor A1,Full System Fault,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,91%,REF-4379
+Calibration Error,Cooling System C4,Coolant Leak,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,96%,REF-8285
+Network Timeout,Laser Cutter L2,Hydraulic <1.2bar,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,79%,REF-9950
+Valve Failure,Cooling System C4,Hydraulic Low,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,78%,REF-3944
+Software Crash,Inspection Camera IC7,Pump Vibration,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,86%,REF-5362
+Network Timeout,Inspection Camera IC7,,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,94%,REF-2675
+Hydraulic Leak,Packaging Machine P2,Full System Fault,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,75%,REF-8426
+Valve Failure,Pump Unit PU9,Hydraulic <1.2bar,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,78%,REF-3984
+Network Timeout,Pump Unit PU9,Coolant Leak,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,86%,REF-8659
+Mechanical Jam,Packaging Machine P2,Spindle >80°C,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,88%,REF-5971
+Sensor Fault,Robot Arm R3,Hydraulic Low,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,75%,REF-6205
+Software Crash,Packaging Machine P2,Vibration Z-Axis,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,84%,REF-5021
+Sensor Fault,Pump Unit PU9,,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,76%,REF-3082
+Pressure Drop,Robot Arm R3,Full System Fault,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,81%,REF-8648
+Overheating,Packaging Machine P2,,Blocked pipe,Identify the defective part and replace it with a certified spare component.,78%,REF-9795
+Valve Failure,Packaging Machine P2,,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,94%,REF-8521
+Network Timeout,Packaging Machine P2,,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,99%,REF-2215
+Mechanical Jam,Robot Arm R3,Vibration Z-Axis,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,90%,REF-3617
+Network Timeout,Cooling System C4,,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,88%,REF-2514
+Mechanical Jam,Laser Cutter L2,Full System Fault,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,85%,REF-9369
+Hydraulic Leak,Inspection Camera IC7,Coolant Leak,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,87%,REF-4552
+Software Crash,Laser Cutter L2,Pump Vibration,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,73%,REF-5979
+Sensor Fault,Conveyor A1,Spindle Overheat,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,78%,REF-8571
+Sensor Fault,Laser Cutter L2,Hydraulic Low,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-3607
+Pressure Drop,Laser Cutter L2,Full System Fault,Incorrect setup,Identify the defective part and replace it with a certified spare component.,85%,REF-5244
+Calibration Error,Packaging Machine P2,Spindle Overheat,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,70%,REF-3265
+Hydraulic Leak,Laser Cutter L2,Coolant Leak,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,82%,REF-7997
+Software Crash,Robot Arm R3,Hydraulic <1.2bar,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,77%,REF-2914
+Pressure Drop,Robot Arm R3,Vibration Z-Axis,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,86%,REF-3095
+Network Timeout,Packaging Machine P2,Full System Fault,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,82%,REF-9517
+Power Surge,Conveyor A1,,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,85%,REF-2817
+Valve Failure,Cooling System C4,,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,81%,REF-3120
+Network Timeout,Packaging Machine P2,Hydraulic Low,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,78%,REF-4302
+Sensor Fault,Inspection Camera IC7,Hydraulic <1.2bar,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,88%,REF-4673
+Network Timeout,Pump Unit PU9,Vibration Z-Axis,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,97%,REF-5281
+Pressure Drop,Conveyor A1,Hydraulic Low,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,87%,REF-6027
+Network Timeout,Pump Unit PU9,Vibration Z-Axis,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,85%,REF-6958
+Pressure Drop,Conveyor A1,Spindle >80°C,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,98%,REF-5026
+Power Surge,Robot Arm R3,Spindle >80°C,Dust accumulation,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,95%,REF-3051
+Hydraulic Leak,Robot Arm R3,Hydraulic Low,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,96%,REF-9778
+Mechanical Jam,Conveyor A1,Spindle Overheat,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,70%,REF-3664
+Power Surge,Packaging Machine P2,Full System Fault,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,76%,REF-9982
+Calibration Error,Inspection Camera IC7,Full System Fault,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,83%,REF-3827
+Network Timeout,Robot Arm R3,Pump Vibration,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,94%,REF-8341
+Power Surge,Laser Cutter L2,Spindle Overheat,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,90%,REF-5319
+Overheating,Laser Cutter L2,Coolant Leak,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,88%,REF-1636
+Pressure Drop,Packaging Machine P2,Coolant Leak,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,72%,REF-7068
+Software Crash,Pump Unit PU9,Coolant Leak,Low lubrication,Identify the defective part and replace it with a certified spare component.,74%,REF-1735
+Mechanical Jam,Inspection Camera IC7,Vibration Z-Axis,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,79%,REF-9218
+Overheating,Pump Unit PU9,,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,73%,REF-5016
+Software Crash,Conveyor A1,Hydraulic Low,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,99%,REF-3065
+Network Timeout,Inspection Camera IC7,Full System Fault,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,91%,REF-3110
+Software Crash,Inspection Camera IC7,Spindle Overheat,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,77%,REF-7265
+Calibration Error,Inspection Camera IC7,Pump Vibration,Electrical short,Identify the defective part and replace it with a certified spare component.,70%,REF-2915
+Calibration Error,Pump Unit PU9,Coolant Leak,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,81%,REF-3689
+Network Timeout,Conveyor A1,Coolant Leak,Electrical short,Identify the defective part and replace it with a certified spare component.,83%,REF-8384
+Calibration Error,Laser Cutter L2,Hydraulic Low,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,77%,REF-7750
+Valve Failure,Packaging Machine P2,Hydraulic <1.2bar,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,75%,REF-5104
+Software Crash,Conveyor A1,Hydraulic Low,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-9660
+Hydraulic Leak,Conveyor A1,Full System Fault,Low lubrication,Identify the defective part and replace it with a certified spare component.,94%,REF-7644
+Hydraulic Leak,Inspection Camera IC7,Spindle Overheat,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,75%,REF-5245
+Hydraulic Leak,Packaging Machine P2,Spindle >80°C,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,88%,REF-9491
+Mechanical Jam,Conveyor A1,Vibration Z-Axis,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,70%,REF-8411
+Valve Failure,Laser Cutter L2,Hydraulic Low,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,80%,REF-6880
+Mechanical Jam,Robot Arm R3,,Dust accumulation,Identify the defective part and replace it with a certified spare component.,89%,REF-3474
+Calibration Error,Packaging Machine P2,Full System Fault,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,74%,REF-2977
+Hydraulic Leak,Robot Arm R3,Spindle Overheat,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,89%,REF-7800
+Calibration Error,Laser Cutter L2,Pump Vibration,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,99%,REF-5246
+Mechanical Jam,Cooling System C4,Pump Vibration,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,84%,REF-7863
+Mechanical Jam,Pump Unit PU9,Spindle >80°C,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,87%,REF-3901
+Power Surge,Cooling System C4,Coolant Leak,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,86%,REF-6690
+Valve Failure,Robot Arm R3,,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,89%,REF-9883
+Overheating,Laser Cutter L2,Spindle >80°C,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,77%,REF-7024
+Software Crash,Pump Unit PU9,Coolant Leak,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,74%,REF-9909
+Overheating,Pump Unit PU9,Spindle Overheat,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,74%,REF-6245
+Mechanical Jam,Cooling System C4,Spindle >80°C,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,98%,REF-7115
+Mechanical Jam,Inspection Camera IC7,Coolant Leak,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,96%,REF-5332
+Mechanical Jam,Inspection Camera IC7,Spindle >80°C,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,92%,REF-2040
+Calibration Error,Packaging Machine P2,Hydraulic <1.2bar,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,96%,REF-8280
+Mechanical Jam,Packaging Machine P2,Spindle >80°C,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,72%,REF-3890
+Hydraulic Leak,Laser Cutter L2,,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,90%,REF-1705
+Mechanical Jam,Robot Arm R3,Spindle >80°C,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,99%,REF-4579
+Sensor Fault,Packaging Machine P2,Full System Fault,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,87%,REF-9757
+Calibration Error,Inspection Camera IC7,Hydraulic <1.2bar,Dust accumulation,Identify the defective part and replace it with a certified spare component.,79%,REF-8095
+Pressure Drop,Packaging Machine P2,Spindle >80°C,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,98%,REF-7682
+Hydraulic Leak,Inspection Camera IC7,Hydraulic Low,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,89%,REF-2825
+Valve Failure,Packaging Machine P2,Pump Vibration,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,86%,REF-9430
+Calibration Error,Laser Cutter L2,Spindle Overheat,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,73%,REF-2271
+Pressure Drop,Laser Cutter L2,Vibration Z-Axis,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,75%,REF-6871
+Mechanical Jam,Pump Unit PU9,Pump Vibration,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,74%,REF-5966
+Pressure Drop,Pump Unit PU9,Vibration Z-Axis,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,74%,REF-9343
+Calibration Error,Laser Cutter L2,Pump Vibration,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,83%,REF-8247
+Software Crash,Inspection Camera IC7,Coolant Leak,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,99%,REF-3082
+Overheating,Inspection Camera IC7,Full System Fault,Blocked pipe,Identify the defective part and replace it with a certified spare component.,84%,REF-7733
+Network Timeout,Packaging Machine P2,,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,75%,REF-1769
+Mechanical Jam,Inspection Camera IC7,Pump Vibration,Incorrect setup,Identify the defective part and replace it with a certified spare component.,85%,REF-4672
+Software Crash,Robot Arm R3,Pump Vibration,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,94%,REF-6162
+Software Crash,Cooling System C4,Hydraulic Low,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,71%,REF-2534
+Power Surge,Cooling System C4,Vibration Z-Axis,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,73%,REF-3961
+Software Crash,Robot Arm R3,Hydraulic Low,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,88%,REF-1980
+Mechanical Jam,Robot Arm R3,Spindle >80°C,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,91%,REF-6359
+Sensor Fault,Conveyor A1,,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,74%,REF-1053
+Valve Failure,Laser Cutter L2,,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-4033
+Hydraulic Leak,Robot Arm R3,Spindle Overheat,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,84%,REF-9437
+Hydraulic Leak,Inspection Camera IC7,Hydraulic Low,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,92%,REF-4620
+Power Surge,Packaging Machine P2,Full System Fault,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,86%,REF-1569
+Mechanical Jam,Packaging Machine P2,Pump Vibration,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,89%,REF-8519
+Power Surge,Pump Unit PU9,Pump Vibration,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,75%,REF-6785
+Power Surge,Packaging Machine P2,Hydraulic Low,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,85%,REF-4695
+Software Crash,Pump Unit PU9,Vibration Z-Axis,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,91%,REF-5697
+Power Surge,Conveyor A1,Hydraulic <1.2bar,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,75%,REF-8294
+Software Crash,Laser Cutter L2,Spindle Overheat,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,86%,REF-4821
+Overheating,Pump Unit PU9,,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,91%,REF-2747
+Calibration Error,Pump Unit PU9,Spindle Overheat,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,73%,REF-4425
+Hydraulic Leak,Robot Arm R3,Spindle Overheat,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,93%,REF-6679
+Sensor Fault,Conveyor A1,Full System Fault,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,89%,REF-5653
+Power Surge,Pump Unit PU9,Hydraulic Low,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,93%,REF-1664
+Overheating,Pump Unit PU9,Hydraulic Low,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,76%,REF-7633
+Valve Failure,Inspection Camera IC7,Vibration Z-Axis,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,77%,REF-4946
+Power Surge,Packaging Machine P2,Vibration Z-Axis,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,88%,REF-5919
+Pressure Drop,Conveyor A1,Hydraulic <1.2bar,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,78%,REF-7841
+Network Timeout,Inspection Camera IC7,Coolant Leak,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,77%,REF-6844
+Software Crash,Robot Arm R3,Full System Fault,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,87%,REF-5183
+Sensor Fault,Conveyor A1,Spindle Overheat,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,95%,REF-8402
+Software Crash,Robot Arm R3,Hydraulic <1.2bar,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,70%,REF-1418
+Power Surge,Inspection Camera IC7,,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,95%,REF-2096
+Network Timeout,Robot Arm R3,Pump Vibration,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,96%,REF-2181
+Pressure Drop,Pump Unit PU9,Hydraulic <1.2bar,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,70%,REF-3289
+Pressure Drop,Conveyor A1,Vibration Z-Axis,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,80%,REF-8607
+Sensor Fault,Packaging Machine P2,Vibration Z-Axis,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,96%,REF-4978
+Network Timeout,Cooling System C4,Full System Fault,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,84%,REF-6329
+Software Crash,Robot Arm R3,Spindle >80°C,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,89%,REF-9164
+Mechanical Jam,Laser Cutter L2,Spindle Overheat,Low lubrication,Identify the defective part and replace it with a certified spare component.,96%,REF-6070
+Hydraulic Leak,Packaging Machine P2,Spindle >80°C,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,80%,REF-2665
+Network Timeout,Cooling System C4,Full System Fault,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,89%,REF-8409
+Software Crash,Packaging Machine P2,Full System Fault,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,94%,REF-6180
+Overheating,Laser Cutter L2,,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,95%,REF-1224
+Pressure Drop,Inspection Camera IC7,Hydraulic <1.2bar,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,73%,REF-3114
+Software Crash,Pump Unit PU9,,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,92%,REF-6415
+Pressure Drop,Packaging Machine P2,,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,92%,REF-1920
+Sensor Fault,Pump Unit PU9,Hydraulic <1.2bar,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,82%,REF-9438
+Pressure Drop,Conveyor A1,Coolant Leak,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,89%,REF-5860
+Pressure Drop,Cooling System C4,Coolant Leak,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-9989
+Sensor Fault,Robot Arm R3,Coolant Leak,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,84%,REF-4741
+Pressure Drop,Cooling System C4,Coolant Leak,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,85%,REF-2306
+Valve Failure,Laser Cutter L2,,Electrical short,Identify the defective part and replace it with a certified spare component.,78%,REF-2588
+Power Surge,Cooling System C4,Full System Fault,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,89%,REF-7947
+Sensor Fault,Robot Arm R3,,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,89%,REF-7600
+Sensor Fault,Conveyor A1,Vibration Z-Axis,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,91%,REF-1992
+Sensor Fault,Conveyor A1,Spindle >80°C,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,82%,REF-5687
+Mechanical Jam,Inspection Camera IC7,Spindle Overheat,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,86%,REF-2284
+Calibration Error,Laser Cutter L2,Hydraulic <1.2bar,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,93%,REF-5725
+Sensor Fault,Pump Unit PU9,Coolant Leak,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,96%,REF-4212
+Valve Failure,Laser Cutter L2,,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,77%,REF-9444
+Software Crash,Conveyor A1,Spindle >80°C,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,88%,REF-7877
+Mechanical Jam,Inspection Camera IC7,Vibration Z-Axis,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,88%,REF-3843
+Power Surge,Robot Arm R3,Full System Fault,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,70%,REF-1958
+Hydraulic Leak,Inspection Camera IC7,Vibration Z-Axis,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,98%,REF-6789
+Pressure Drop,Cooling System C4,Hydraulic <1.2bar,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,86%,REF-9373
+Sensor Fault,Cooling System C4,,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,97%,REF-7363
+Calibration Error,Conveyor A1,Hydraulic Low,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,73%,REF-5623
+Network Timeout,Packaging Machine P2,Hydraulic Low,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,80%,REF-9567
+Pressure Drop,Laser Cutter L2,,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,70%,REF-4141
+Network Timeout,Conveyor A1,Spindle Overheat,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,81%,REF-2721
+Power Surge,Inspection Camera IC7,,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,95%,REF-1934
+Mechanical Jam,Laser Cutter L2,Spindle >80°C,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,95%,REF-7439
+Calibration Error,Inspection Camera IC7,Full System Fault,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,83%,REF-9552
+Power Surge,Inspection Camera IC7,Spindle >80°C,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,77%,REF-3543
+Software Crash,Pump Unit PU9,,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,99%,REF-8723
+Network Timeout,Pump Unit PU9,Pump Vibration,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,99%,REF-2994
+Calibration Error,Packaging Machine P2,Coolant Leak,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,77%,REF-5237
+Power Surge,Conveyor A1,Pump Vibration,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,95%,REF-4613
+Valve Failure,Conveyor A1,Spindle Overheat,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,82%,REF-6629
+Hydraulic Leak,Robot Arm R3,Coolant Leak,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,94%,REF-4726
+Sensor Fault,Inspection Camera IC7,Hydraulic Low,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,90%,REF-5929
+Hydraulic Leak,Robot Arm R3,Pump Vibration,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,88%,REF-9214
+Hydraulic Leak,Cooling System C4,Coolant Leak,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,87%,REF-1703
+Calibration Error,Pump Unit PU9,Spindle Overheat,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,74%,REF-7149
+Overheating,Inspection Camera IC7,Spindle Overheat,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,90%,REF-7060
+Power Surge,Inspection Camera IC7,Spindle >80°C,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,70%,REF-3013
+Sensor Fault,Inspection Camera IC7,Spindle Overheat,Dust accumulation,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,93%,REF-3515
+Pressure Drop,Cooling System C4,Spindle >80°C,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,94%,REF-8969
+Overheating,Packaging Machine P2,,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,76%,REF-5409
+Hydraulic Leak,Conveyor A1,Hydraulic <1.2bar,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,96%,REF-4578
+Pressure Drop,Laser Cutter L2,,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,87%,REF-4277
+Valve Failure,Laser Cutter L2,Full System Fault,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,88%,REF-6559
+Valve Failure,Robot Arm R3,Pump Vibration,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,75%,REF-1206
+Software Crash,Laser Cutter L2,Spindle Overheat,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,93%,REF-6049
+Sensor Fault,Conveyor A1,Coolant Leak,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,81%,REF-3047
+Calibration Error,Pump Unit PU9,Spindle Overheat,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,80%,REF-3071
+Power Surge,Inspection Camera IC7,Full System Fault,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,88%,REF-7774
+Pressure Drop,Laser Cutter L2,Spindle Overheat,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,90%,REF-1787
+Mechanical Jam,Packaging Machine P2,Hydraulic Low,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,89%,REF-2623
+Network Timeout,Cooling System C4,,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,88%,REF-5512
+Pressure Drop,Conveyor A1,Vibration Z-Axis,Dust accumulation,Identify the defective part and replace it with a certified spare component.,85%,REF-3962
+Pressure Drop,Cooling System C4,Vibration Z-Axis,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,81%,REF-7820
+Calibration Error,Laser Cutter L2,Coolant Leak,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,80%,REF-4875
+Valve Failure,Robot Arm R3,Hydraulic <1.2bar,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,77%,REF-9106
+Overheating,Pump Unit PU9,Pump Vibration,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,96%,REF-9362
+Valve Failure,Inspection Camera IC7,Coolant Leak,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,77%,REF-8111
+Calibration Error,Inspection Camera IC7,Full System Fault,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,97%,REF-2333
+Sensor Fault,Pump Unit PU9,Vibration Z-Axis,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,78%,REF-5829
+Mechanical Jam,Robot Arm R3,Pump Vibration,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,97%,REF-4317
+Overheating,Laser Cutter L2,Full System Fault,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,88%,REF-5723
+Hydraulic Leak,Robot Arm R3,Full System Fault,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,84%,REF-1343
+Software Crash,Cooling System C4,Full System Fault,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,89%,REF-4931
+Mechanical Jam,Robot Arm R3,,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,71%,REF-5414
+Mechanical Jam,Pump Unit PU9,Pump Vibration,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,80%,REF-2795
+Power Surge,Cooling System C4,Spindle >80°C,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,88%,REF-7696
+Overheating,Pump Unit PU9,Hydraulic <1.2bar,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,73%,REF-2600
+Power Surge,Pump Unit PU9,Full System Fault,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,76%,REF-8217
+Pressure Drop,Laser Cutter L2,,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,76%,REF-8361
+Network Timeout,Packaging Machine P2,Spindle Overheat,Blocked pipe,Identify the defective part and replace it with a certified spare component.,74%,REF-6258
+Hydraulic Leak,Robot Arm R3,Vibration Z-Axis,Electrical short,Identify the defective part and replace it with a certified spare component.,86%,REF-5331
+Network Timeout,Packaging Machine P2,Full System Fault,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,87%,REF-8278
+Network Timeout,Cooling System C4,Pump Vibration,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,77%,REF-9201
+Network Timeout,Inspection Camera IC7,Spindle >80°C,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,70%,REF-3668
+Sensor Fault,Laser Cutter L2,Spindle Overheat,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,71%,REF-3941
+Overheating,Robot Arm R3,Hydraulic Low,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,95%,REF-7389
+Network Timeout,Pump Unit PU9,Full System Fault,Electrical short,Identify the defective part and replace it with a certified spare component.,72%,REF-8205
+Overheating,Pump Unit PU9,Hydraulic <1.2bar,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,73%,REF-4226
+Power Surge,Inspection Camera IC7,Spindle Overheat,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,96%,REF-5119
+Overheating,Pump Unit PU9,,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,82%,REF-3782
+Power Surge,Inspection Camera IC7,Hydraulic Low,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,84%,REF-4578
+Pressure Drop,Robot Arm R3,Full System Fault,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,96%,REF-2821
+Calibration Error,Robot Arm R3,Spindle >80°C,Coding bug,Identify the defective part and replace it with a certified spare component.,76%,REF-3887
+Power Surge,Pump Unit PU9,Full System Fault,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,89%,REF-9962
+Power Surge,Conveyor A1,Full System Fault,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,94%,REF-8444
+Overheating,Robot Arm R3,Full System Fault,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,80%,REF-7762
+Calibration Error,Inspection Camera IC7,Pump Vibration,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,78%,REF-2530
+Network Timeout,Conveyor A1,Coolant Leak,Incorrect setup,Identify the defective part and replace it with a certified spare component.,94%,REF-9247
+Sensor Fault,Laser Cutter L2,Pump Vibration,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-8282
+Power Surge,Inspection Camera IC7,,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,85%,REF-9903
+Network Timeout,Cooling System C4,Hydraulic <1.2bar,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,85%,REF-3589
+Pressure Drop,Robot Arm R3,Hydraulic <1.2bar,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,74%,REF-1107
+Software Crash,Conveyor A1,Full System Fault,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,97%,REF-7101
+Power Surge,Packaging Machine P2,Coolant Leak,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,98%,REF-4464
+Software Crash,Pump Unit PU9,Pump Vibration,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,93%,REF-1231
+Network Timeout,Laser Cutter L2,Pump Vibration,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,94%,REF-3027
+Pressure Drop,Robot Arm R3,,Coding bug,Identify the defective part and replace it with a certified spare component.,74%,REF-9865
+Mechanical Jam,Laser Cutter L2,Vibration Z-Axis,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,72%,REF-2099
+Network Timeout,Conveyor A1,,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,86%,REF-8250
+Mechanical Jam,Conveyor A1,Pump Vibration,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,71%,REF-3531
+Mechanical Jam,Laser Cutter L2,Hydraulic Low,Dust accumulation,Identify the defective part and replace it with a certified spare component.,86%,REF-7596
+Network Timeout,Cooling System C4,Pump Vibration,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,71%,REF-2554
+Software Crash,Pump Unit PU9,Pump Vibration,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,89%,REF-7051
+Mechanical Jam,Conveyor A1,Pump Vibration,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,93%,REF-4114
+Overheating,Robot Arm R3,Pump Vibration,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,99%,REF-5684
+Hydraulic Leak,Inspection Camera IC7,Vibration Z-Axis,Dust accumulation,Identify the defective part and replace it with a certified spare component.,91%,REF-7104
+Overheating,Laser Cutter L2,Spindle >80°C,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,88%,REF-3267
+Pressure Drop,Cooling System C4,Full System Fault,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,73%,REF-8945
+Hydraulic Leak,Inspection Camera IC7,Hydraulic Low,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,93%,REF-1196
+Software Crash,Inspection Camera IC7,Vibration Z-Axis,Blocked pipe,Identify the defective part and replace it with a certified spare component.,87%,REF-9573
+Overheating,Robot Arm R3,Vibration Z-Axis,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,89%,REF-8767
+Power Surge,Laser Cutter L2,Spindle >80°C,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,87%,REF-8391
+Mechanical Jam,Packaging Machine P2,Pump Vibration,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,91%,REF-5905
+Software Crash,Laser Cutter L2,Coolant Leak,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,83%,REF-7518
+Calibration Error,Inspection Camera IC7,Pump Vibration,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,70%,REF-4025
+Software Crash,Conveyor A1,Spindle Overheat,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,79%,REF-6057
+Mechanical Jam,Inspection Camera IC7,Spindle >80°C,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,79%,REF-8676
+Sensor Fault,Robot Arm R3,Hydraulic Low,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,99%,REF-1211
+Overheating,Cooling System C4,Coolant Leak,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,87%,REF-4517
+Power Surge,Inspection Camera IC7,Hydraulic Low,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,97%,REF-6769
+Power Surge,Conveyor A1,Spindle Overheat,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,81%,REF-5757
+Network Timeout,Cooling System C4,Spindle >80°C,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,84%,REF-2947
+Calibration Error,Robot Arm R3,Coolant Leak,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,70%,REF-6049
+Hydraulic Leak,Robot Arm R3,Spindle Overheat,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,71%,REF-6403
+Hydraulic Leak,Robot Arm R3,Spindle Overheat,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,87%,REF-7234
+Network Timeout,Inspection Camera IC7,Spindle Overheat,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,70%,REF-8093
+Network Timeout,Conveyor A1,Coolant Leak,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,74%,REF-2636
+Overheating,Pump Unit PU9,Full System Fault,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,76%,REF-2629
+Valve Failure,Conveyor A1,,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,82%,REF-9396
+Calibration Error,Laser Cutter L2,Vibration Z-Axis,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,82%,REF-7319
+Sensor Fault,Inspection Camera IC7,Full System Fault,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,81%,REF-8456
+Overheating,Cooling System C4,Hydraulic <1.2bar,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,77%,REF-6387
+Valve Failure,Laser Cutter L2,Hydraulic <1.2bar,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,70%,REF-1618
+Overheating,Cooling System C4,Full System Fault,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,88%,REF-5272
+Sensor Fault,Conveyor A1,Pump Vibration,Low lubrication,Identify the defective part and replace it with a certified spare component.,99%,REF-4251
+Sensor Fault,Conveyor A1,Full System Fault,Blocked pipe,Identify the defective part and replace it with a certified spare component.,71%,REF-6973
+Overheating,Laser Cutter L2,Hydraulic Low,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,99%,REF-7133
+Sensor Fault,Robot Arm R3,Full System Fault,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,86%,REF-7564
+Sensor Fault,Packaging Machine P2,Vibration Z-Axis,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,75%,REF-2691
+Sensor Fault,Inspection Camera IC7,Pump Vibration,Incorrect setup,Identify the defective part and replace it with a certified spare component.,86%,REF-1185
+Mechanical Jam,Laser Cutter L2,Full System Fault,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,96%,REF-1962
+Valve Failure,Conveyor A1,Pump Vibration,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,85%,REF-5672
+Network Timeout,Packaging Machine P2,Coolant Leak,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,85%,REF-9478
+Hydraulic Leak,Packaging Machine P2,Hydraulic <1.2bar,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,90%,REF-8295
+Software Crash,Pump Unit PU9,Spindle >80°C,Dust accumulation,Identify the defective part and replace it with a certified spare component.,77%,REF-3691
+Software Crash,Cooling System C4,Pump Vibration,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,90%,REF-7332
+Power Surge,Robot Arm R3,Hydraulic <1.2bar,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,96%,REF-3883
+Power Surge,Inspection Camera IC7,Spindle Overheat,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,75%,REF-2319
+Power Surge,Pump Unit PU9,Vibration Z-Axis,Dust accumulation,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,77%,REF-7616
+Software Crash,Conveyor A1,Coolant Leak,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,90%,REF-1057
+Mechanical Jam,Cooling System C4,Vibration Z-Axis,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,95%,REF-4773
+Sensor Fault,Conveyor A1,Pump Vibration,Dust accumulation,Identify the defective part and replace it with a certified spare component.,96%,REF-9179
+Power Surge,Pump Unit PU9,Coolant Leak,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,84%,REF-7519
+Software Crash,Pump Unit PU9,Vibration Z-Axis,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,84%,REF-9880
+Power Surge,Pump Unit PU9,Pump Vibration,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,85%,REF-2993
+Mechanical Jam,Packaging Machine P2,,Dust accumulation,Identify the defective part and replace it with a certified spare component.,91%,REF-4841
+Mechanical Jam,Inspection Camera IC7,Hydraulic <1.2bar,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,73%,REF-9554
+Overheating,Laser Cutter L2,,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,74%,REF-4704
+Pressure Drop,Laser Cutter L2,Vibration Z-Axis,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,72%,REF-1875
+Valve Failure,Conveyor A1,Hydraulic <1.2bar,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,72%,REF-5550
+Hydraulic Leak,Inspection Camera IC7,Coolant Leak,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,87%,REF-3713
+Valve Failure,Laser Cutter L2,Pump Vibration,Dust accumulation,Identify the defective part and replace it with a certified spare component.,77%,REF-9846
+Overheating,Inspection Camera IC7,Spindle Overheat,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,84%,REF-7047
+Calibration Error,Laser Cutter L2,Spindle Overheat,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-7928
+Overheating,Laser Cutter L2,Hydraulic <1.2bar,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,93%,REF-3113
+Mechanical Jam,Inspection Camera IC7,Spindle Overheat,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,81%,REF-8998
+Sensor Fault,Robot Arm R3,Full System Fault,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,94%,REF-1052
+Valve Failure,Conveyor A1,,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,88%,REF-1528
+Calibration Error,Conveyor A1,Coolant Leak,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,73%,REF-7264
+Software Crash,Packaging Machine P2,Hydraulic Low,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,95%,REF-2928
+Valve Failure,Pump Unit PU9,,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,91%,REF-4726
+Network Timeout,Conveyor A1,Spindle Overheat,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,87%,REF-2802
+Calibration Error,Inspection Camera IC7,Vibration Z-Axis,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,83%,REF-7525
+Calibration Error,Robot Arm R3,Pump Vibration,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,74%,REF-8658
+Hydraulic Leak,Cooling System C4,Pump Vibration,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,87%,REF-9415
+Valve Failure,Pump Unit PU9,Full System Fault,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,72%,REF-9101
+Power Surge,Robot Arm R3,Hydraulic <1.2bar,Electrical short,Identify the defective part and replace it with a certified spare component.,98%,REF-5676
+Sensor Fault,Cooling System C4,Spindle Overheat,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,92%,REF-9072
+Valve Failure,Cooling System C4,,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,74%,REF-9119
+Power Surge,Inspection Camera IC7,Full System Fault,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,71%,REF-4572
+Valve Failure,Laser Cutter L2,Spindle >80°C,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,94%,REF-2397
+Mechanical Jam,Packaging Machine P2,Coolant Leak,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,77%,REF-8170
+Network Timeout,Pump Unit PU9,Vibration Z-Axis,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,90%,REF-6545
+Calibration Error,Packaging Machine P2,Full System Fault,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,74%,REF-8258
+Mechanical Jam,Laser Cutter L2,Spindle >80°C,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,95%,REF-1772
+Overheating,Cooling System C4,Full System Fault,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,99%,REF-8656
+Sensor Fault,Inspection Camera IC7,Vibration Z-Axis,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,76%,REF-5195
+Valve Failure,Laser Cutter L2,Spindle Overheat,Electrical short,Identify the defective part and replace it with a certified spare component.,81%,REF-8387
+Sensor Fault,Laser Cutter L2,Hydraulic Low,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,76%,REF-1772
+Hydraulic Leak,Cooling System C4,Coolant Leak,Blocked pipe,Identify the defective part and replace it with a certified spare component.,76%,REF-6469
+Power Surge,Cooling System C4,Spindle >80°C,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-9905
+Sensor Fault,Laser Cutter L2,Coolant Leak,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,73%,REF-8752
+Sensor Fault,Cooling System C4,,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,75%,REF-9373
+Overheating,Pump Unit PU9,Pump Vibration,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,83%,REF-8533
+Valve Failure,Pump Unit PU9,Spindle >80°C,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,90%,REF-2758
+Valve Failure,Inspection Camera IC7,Coolant Leak,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,82%,REF-6776
+Power Surge,Cooling System C4,Full System Fault,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,71%,REF-4401
+Hydraulic Leak,Robot Arm R3,Vibration Z-Axis,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,71%,REF-3543
+Sensor Fault,Inspection Camera IC7,,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,81%,REF-9530
+Pressure Drop,Conveyor A1,Vibration Z-Axis,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,84%,REF-1331
+Valve Failure,Inspection Camera IC7,Hydraulic <1.2bar,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,98%,REF-1960
+Overheating,Laser Cutter L2,Spindle Overheat,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,81%,REF-1948
+Mechanical Jam,Packaging Machine P2,Hydraulic <1.2bar,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,81%,REF-6808
+Network Timeout,Laser Cutter L2,Full System Fault,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,94%,REF-3128
+Sensor Fault,Robot Arm R3,Spindle >80°C,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,73%,REF-4889
+Sensor Fault,Conveyor A1,Pump Vibration,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,85%,REF-6772
+Mechanical Jam,Packaging Machine P2,Hydraulic Low,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,91%,REF-9012
+Valve Failure,Conveyor A1,Vibration Z-Axis,Coding bug,Identify the defective part and replace it with a certified spare component.,74%,REF-7030
+Pressure Drop,Packaging Machine P2,Coolant Leak,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,77%,REF-7457
+Pressure Drop,Inspection Camera IC7,Hydraulic <1.2bar,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,92%,REF-6195
+Calibration Error,Pump Unit PU9,,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,84%,REF-9699
+Software Crash,Inspection Camera IC7,Vibration Z-Axis,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,85%,REF-7101
+Mechanical Jam,Cooling System C4,Full System Fault,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,73%,REF-8553
+Network Timeout,Robot Arm R3,Hydraulic Low,Low lubrication,Identify the defective part and replace it with a certified spare component.,80%,REF-1964
+Network Timeout,Packaging Machine P2,,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,71%,REF-2462
+Overheating,Robot Arm R3,Hydraulic Low,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,72%,REF-4819
+Software Crash,Cooling System C4,Coolant Leak,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,92%,REF-5268
+Software Crash,Pump Unit PU9,,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,90%,REF-8045
+Sensor Fault,Inspection Camera IC7,Pump Vibration,Low lubrication,Identify the defective part and replace it with a certified spare component.,75%,REF-6561
+Power Surge,Inspection Camera IC7,Full System Fault,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,85%,REF-2802
+Calibration Error,Cooling System C4,Full System Fault,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,92%,REF-7894
+Overheating,Conveyor A1,Hydraulic Low,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,80%,REF-1452
+Network Timeout,Robot Arm R3,Full System Fault,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,74%,REF-1759
+Power Surge,Laser Cutter L2,,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,97%,REF-9664
+Overheating,Cooling System C4,Pump Vibration,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,93%,REF-8115
+Sensor Fault,Packaging Machine P2,Hydraulic Low,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,70%,REF-4859
+Network Timeout,Pump Unit PU9,Coolant Leak,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,91%,REF-6249
+Network Timeout,Laser Cutter L2,Hydraulic Low,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,74%,REF-8762
+Software Crash,Robot Arm R3,Vibration Z-Axis,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-8810
+Mechanical Jam,Packaging Machine P2,Spindle Overheat,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,78%,REF-3506
+Network Timeout,Laser Cutter L2,Hydraulic <1.2bar,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,70%,REF-2807
+Hydraulic Leak,Conveyor A1,Pump Vibration,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,73%,REF-7924
+Overheating,Conveyor A1,Hydraulic <1.2bar,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,86%,REF-4115
+Sensor Fault,Cooling System C4,Spindle Overheat,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,87%,REF-4055
+Sensor Fault,Pump Unit PU9,Spindle Overheat,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,75%,REF-1031
+Hydraulic Leak,Conveyor A1,Coolant Leak,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,87%,REF-2091
+Hydraulic Leak,Packaging Machine P2,Vibration Z-Axis,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,83%,REF-9238
+Overheating,Laser Cutter L2,Pump Vibration,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,95%,REF-2254
+Hydraulic Leak,Laser Cutter L2,Spindle Overheat,Coding bug,Identify the defective part and replace it with a certified spare component.,77%,REF-2922
+Mechanical Jam,Cooling System C4,Hydraulic <1.2bar,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,71%,REF-6636
+Valve Failure,Packaging Machine P2,Full System Fault,Low lubrication,Identify the defective part and replace it with a certified spare component.,88%,REF-7977
+Software Crash,Robot Arm R3,Full System Fault,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,93%,REF-6791
+Pressure Drop,Laser Cutter L2,Spindle >80°C,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,79%,REF-8727
+Power Surge,Cooling System C4,Spindle >80°C,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,98%,REF-2260
+Software Crash,Inspection Camera IC7,,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,86%,REF-7728
+Overheating,Cooling System C4,Hydraulic <1.2bar,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,88%,REF-6313
+Mechanical Jam,Packaging Machine P2,,Incorrect setup,Identify the defective part and replace it with a certified spare component.,74%,REF-4687
+Overheating,Conveyor A1,Spindle >80°C,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,78%,REF-8311
+Pressure Drop,Inspection Camera IC7,Spindle Overheat,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,86%,REF-9233
+Network Timeout,Laser Cutter L2,Pump Vibration,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,85%,REF-2377
+Valve Failure,Laser Cutter L2,Coolant Leak,Low lubrication,Identify the defective part and replace it with a certified spare component.,94%,REF-4585
+Mechanical Jam,Inspection Camera IC7,,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,96%,REF-8175
+Overheating,Conveyor A1,Hydraulic <1.2bar,Low lubrication,Identify the defective part and replace it with a certified spare component.,89%,REF-2944
+Pressure Drop,Laser Cutter L2,Full System Fault,Low lubrication,Identify the defective part and replace it with a certified spare component.,86%,REF-6834
+Pressure Drop,Laser Cutter L2,Spindle >80°C,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,77%,REF-4300
+Calibration Error,Robot Arm R3,Spindle >80°C,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,80%,REF-9332
+Calibration Error,Laser Cutter L2,Coolant Leak,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,87%,REF-8284
+Sensor Fault,Packaging Machine P2,Hydraulic Low,Dust accumulation,Identify the defective part and replace it with a certified spare component.,80%,REF-5717
+Network Timeout,Pump Unit PU9,Full System Fault,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,95%,REF-9427
+Valve Failure,Conveyor A1,Pump Vibration,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,96%,REF-8582
+Calibration Error,Packaging Machine P2,Pump Vibration,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,92%,REF-6153
+Sensor Fault,Cooling System C4,Spindle >80°C,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,90%,REF-6494
+Overheating,Conveyor A1,Hydraulic <1.2bar,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,70%,REF-9453
+Pressure Drop,Conveyor A1,,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-8946
+Hydraulic Leak,Inspection Camera IC7,Spindle Overheat,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,99%,REF-3663
+Power Surge,Packaging Machine P2,Spindle Overheat,Blocked pipe,Identify the defective part and replace it with a certified spare component.,91%,REF-7543
+Mechanical Jam,Packaging Machine P2,Pump Vibration,Incorrect setup,Identify the defective part and replace it with a certified spare component.,86%,REF-9969
+Mechanical Jam,Cooling System C4,Vibration Z-Axis,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,97%,REF-3403
+Software Crash,Robot Arm R3,,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,84%,REF-8354
+Overheating,Conveyor A1,Coolant Leak,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,99%,REF-5895
+Calibration Error,Robot Arm R3,Coolant Leak,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,99%,REF-4004
+Network Timeout,Laser Cutter L2,Spindle >80°C,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,87%,REF-9289
+Valve Failure,Packaging Machine P2,Spindle >80°C,Dust accumulation,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,96%,REF-5290
+Software Crash,Conveyor A1,Coolant Leak,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,76%,REF-3806
+Hydraulic Leak,Conveyor A1,,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,82%,REF-5642
+Calibration Error,Cooling System C4,Pump Vibration,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,98%,REF-3673
+Pressure Drop,Laser Cutter L2,Spindle Overheat,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,94%,REF-2885
+Calibration Error,Packaging Machine P2,Vibration Z-Axis,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,99%,REF-2023
+Mechanical Jam,Laser Cutter L2,,Blocked pipe,Identify the defective part and replace it with a certified spare component.,78%,REF-6745
+Calibration Error,Packaging Machine P2,Vibration Z-Axis,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,87%,REF-9386
+Software Crash,Packaging Machine P2,Spindle >80°C,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,97%,REF-9269
+Software Crash,Packaging Machine P2,Spindle >80°C,Incorrect setup,Identify the defective part and replace it with a certified spare component.,98%,REF-7074
+Calibration Error,Packaging Machine P2,Hydraulic <1.2bar,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,95%,REF-5524
+Hydraulic Leak,Cooling System C4,Hydraulic Low,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,72%,REF-8570
+Hydraulic Leak,Laser Cutter L2,Spindle >80°C,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,76%,REF-8084
+Hydraulic Leak,Pump Unit PU9,Spindle >80°C,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,85%,REF-1545
+Network Timeout,Inspection Camera IC7,Full System Fault,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,98%,REF-8979
+Power Surge,Packaging Machine P2,Pump Vibration,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,79%,REF-6679
+Hydraulic Leak,Inspection Camera IC7,Vibration Z-Axis,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,71%,REF-3109
+Sensor Fault,Pump Unit PU9,Vibration Z-Axis,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,95%,REF-3932
+Mechanical Jam,Laser Cutter L2,,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,82%,REF-9429
+Calibration Error,Conveyor A1,Hydraulic Low,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,92%,REF-8333
+Software Crash,Pump Unit PU9,Coolant Leak,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,80%,REF-2385
+Hydraulic Leak,Packaging Machine P2,Hydraulic Low,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,72%,REF-4616
+Mechanical Jam,Laser Cutter L2,Spindle Overheat,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,71%,REF-1909
+Overheating,Laser Cutter L2,Spindle Overheat,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,89%,REF-6502
+Pressure Drop,Cooling System C4,Coolant Leak,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,82%,REF-6044
+Network Timeout,Packaging Machine P2,Hydraulic Low,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,88%,REF-7743
+Valve Failure,Pump Unit PU9,Hydraulic <1.2bar,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,93%,REF-6647
+Overheating,Inspection Camera IC7,Pump Vibration,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,87%,REF-1283
+Calibration Error,Inspection Camera IC7,Coolant Leak,Dust accumulation,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,99%,REF-2558
+Valve Failure,Pump Unit PU9,Full System Fault,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,74%,REF-2419
+Overheating,Robot Arm R3,Hydraulic <1.2bar,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,95%,REF-4793
+Power Surge,Cooling System C4,,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,81%,REF-6644
+Software Crash,Packaging Machine P2,Hydraulic Low,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,73%,REF-7610
+Calibration Error,Pump Unit PU9,Full System Fault,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,71%,REF-8614
+Sensor Fault,Pump Unit PU9,Pump Vibration,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,78%,REF-4813
+Software Crash,Robot Arm R3,,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,80%,REF-7808
+Power Surge,Laser Cutter L2,Coolant Leak,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,72%,REF-4281
+Pressure Drop,Pump Unit PU9,Full System Fault,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,79%,REF-4310
+Sensor Fault,Conveyor A1,Hydraulic Low,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,70%,REF-9849
+Pressure Drop,Inspection Camera IC7,Hydraulic <1.2bar,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,95%,REF-9772
+Network Timeout,Packaging Machine P2,Hydraulic <1.2bar,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,97%,REF-8927
+Sensor Fault,Laser Cutter L2,Spindle Overheat,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,72%,REF-7126
+Overheating,Robot Arm R3,Hydraulic Low,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,86%,REF-9748
+Power Surge,Packaging Machine P2,Hydraulic <1.2bar,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,84%,REF-7568
+Hydraulic Leak,Inspection Camera IC7,,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,90%,REF-6930
+Hydraulic Leak,Cooling System C4,,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,79%,REF-1106
+Network Timeout,Inspection Camera IC7,Spindle Overheat,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,84%,REF-5766
+Mechanical Jam,Cooling System C4,Coolant Leak,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,83%,REF-3279
+Overheating,Packaging Machine P2,Full System Fault,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,76%,REF-6871
+Software Crash,Packaging Machine P2,Hydraulic Low,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,98%,REF-2252
+Hydraulic Leak,Cooling System C4,Coolant Leak,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,80%,REF-4215
+Hydraulic Leak,Laser Cutter L2,Pump Vibration,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,98%,REF-5338
+Sensor Fault,Robot Arm R3,Coolant Leak,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,72%,REF-2819
+Calibration Error,Laser Cutter L2,Full System Fault,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,99%,REF-1553
+Overheating,Conveyor A1,,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,85%,REF-7007
+Network Timeout,Conveyor A1,Pump Vibration,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,84%,REF-7711
+Calibration Error,Laser Cutter L2,Spindle Overheat,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,75%,REF-8670
+Mechanical Jam,Laser Cutter L2,Full System Fault,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,94%,REF-5351
+Software Crash,Conveyor A1,Full System Fault,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,74%,REF-4511
+Software Crash,Packaging Machine P2,Coolant Leak,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,77%,REF-1219
+Valve Failure,Inspection Camera IC7,Coolant Leak,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,86%,REF-4549
+Software Crash,Cooling System C4,,Electrical short,Identify the defective part and replace it with a certified spare component.,78%,REF-6092
+Overheating,Pump Unit PU9,Hydraulic <1.2bar,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,87%,REF-4397
+Pressure Drop,Cooling System C4,Full System Fault,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,75%,REF-8609
+Hydraulic Leak,Laser Cutter L2,Spindle Overheat,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,73%,REF-8727
+Calibration Error,Cooling System C4,,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,95%,REF-7831
+Network Timeout,Conveyor A1,Pump Vibration,Coding bug,Identify the defective part and replace it with a certified spare component.,87%,REF-5505
+Pressure Drop,Conveyor A1,Full System Fault,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,91%,REF-2669
+Power Surge,Pump Unit PU9,Hydraulic <1.2bar,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,81%,REF-1054
+Pressure Drop,Laser Cutter L2,Spindle Overheat,Blocked pipe,Identify the defective part and replace it with a certified spare component.,96%,REF-3182
+Valve Failure,Inspection Camera IC7,Spindle >80°C,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,98%,REF-9942
+Network Timeout,Cooling System C4,Pump Vibration,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,97%,REF-3557
+Network Timeout,Robot Arm R3,Vibration Z-Axis,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,76%,REF-9307
+Pressure Drop,Inspection Camera IC7,,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,97%,REF-2534
+Pressure Drop,Inspection Camera IC7,Pump Vibration,Electrical short,Identify the defective part and replace it with a certified spare component.,70%,REF-9564
+Software Crash,Laser Cutter L2,Full System Fault,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,93%,REF-6785
+Hydraulic Leak,Pump Unit PU9,Hydraulic Low,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,81%,REF-6641
+Valve Failure,Packaging Machine P2,Pump Vibration,Low lubrication,Identify the defective part and replace it with a certified spare component.,94%,REF-4669
+Valve Failure,Inspection Camera IC7,Spindle Overheat,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,91%,REF-6473
+Sensor Fault,Laser Cutter L2,Full System Fault,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,96%,REF-4659
+Calibration Error,Pump Unit PU9,Pump Vibration,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,84%,REF-9590
+Overheating,Conveyor A1,,Electrical short,Identify the defective part and replace it with a certified spare component.,77%,REF-5540
+Mechanical Jam,Laser Cutter L2,Spindle Overheat,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,77%,REF-5676
+Overheating,Pump Unit PU9,Coolant Leak,Blocked pipe,Identify the defective part and replace it with a certified spare component.,77%,REF-7975
+Network Timeout,Laser Cutter L2,Pump Vibration,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,80%,REF-6389
+Mechanical Jam,Robot Arm R3,Hydraulic <1.2bar,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,81%,REF-3418
+Valve Failure,Conveyor A1,Hydraulic Low,Dust accumulation,Identify the defective part and replace it with a certified spare component.,84%,REF-5930
+Calibration Error,Cooling System C4,Hydraulic Low,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,93%,REF-2908
+Calibration Error,Laser Cutter L2,Coolant Leak,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-7410
+Valve Failure,Laser Cutter L2,Coolant Leak,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,96%,REF-5544
+Sensor Fault,Robot Arm R3,,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,95%,REF-8259
+Sensor Fault,Pump Unit PU9,Hydraulic <1.2bar,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,80%,REF-2760
+Valve Failure,Inspection Camera IC7,Hydraulic Low,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,97%,REF-9026
+Network Timeout,Inspection Camera IC7,Pump Vibration,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,74%,REF-9356
+Pressure Drop,Robot Arm R3,Spindle Overheat,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,77%,REF-9059
+Sensor Fault,Laser Cutter L2,,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-8959
+Sensor Fault,Inspection Camera IC7,Pump Vibration,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,72%,REF-3576
+Power Surge,Cooling System C4,Hydraulic <1.2bar,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,95%,REF-1376
+Power Surge,Conveyor A1,Full System Fault,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,78%,REF-8275
+Pressure Drop,Packaging Machine P2,Full System Fault,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,92%,REF-7725
+Power Surge,Robot Arm R3,Vibration Z-Axis,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,80%,REF-6310
+Valve Failure,Pump Unit PU9,Spindle Overheat,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,73%,REF-4345
+Software Crash,Packaging Machine P2,Vibration Z-Axis,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,98%,REF-2865
+Sensor Fault,Packaging Machine P2,Hydraulic <1.2bar,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,95%,REF-7481
+Sensor Fault,Pump Unit PU9,Pump Vibration,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,75%,REF-5768
+Pressure Drop,Packaging Machine P2,Hydraulic Low,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,85%,REF-7591
+Valve Failure,Cooling System C4,Hydraulic Low,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,87%,REF-9675
+Calibration Error,Pump Unit PU9,Spindle >80°C,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,71%,REF-6335
+Pressure Drop,Packaging Machine P2,,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,71%,REF-1265
+Mechanical Jam,Robot Arm R3,Hydraulic Low,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,89%,REF-9414
+Valve Failure,Robot Arm R3,Vibration Z-Axis,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,96%,REF-9305
+Software Crash,Laser Cutter L2,Vibration Z-Axis,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,71%,REF-7940
+Hydraulic Leak,Inspection Camera IC7,Hydraulic <1.2bar,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,94%,REF-8824
+Overheating,Pump Unit PU9,,Low lubrication,Identify the defective part and replace it with a certified spare component.,99%,REF-5305
+Overheating,Cooling System C4,Hydraulic <1.2bar,Blocked pipe,Identify the defective part and replace it with a certified spare component.,75%,REF-4460
+Power Surge,Cooling System C4,,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,96%,REF-3496
+Overheating,Cooling System C4,Vibration Z-Axis,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,95%,REF-3763
+Calibration Error,Packaging Machine P2,Spindle Overheat,Low lubrication,Identify the defective part and replace it with a certified spare component.,86%,REF-9815
+Network Timeout,Laser Cutter L2,Hydraulic Low,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,80%,REF-6520
+Overheating,Robot Arm R3,Vibration Z-Axis,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,74%,REF-1178
+Network Timeout,Robot Arm R3,Spindle Overheat,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,73%,REF-2912
+Valve Failure,Cooling System C4,Spindle >80°C,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,94%,REF-5573
+Hydraulic Leak,Inspection Camera IC7,Hydraulic <1.2bar,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,86%,REF-3122
+Pressure Drop,Pump Unit PU9,Spindle Overheat,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,81%,REF-7433
+Valve Failure,Packaging Machine P2,Hydraulic <1.2bar,Coding bug,Identify the defective part and replace it with a certified spare component.,71%,REF-5617
+Calibration Error,Conveyor A1,Hydraulic Low,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,74%,REF-3252
+Mechanical Jam,Laser Cutter L2,Spindle Overheat,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,92%,REF-3746
+Pressure Drop,Conveyor A1,Spindle >80°C,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,72%,REF-8029
+Overheating,Inspection Camera IC7,Hydraulic <1.2bar,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,84%,REF-6650
+Hydraulic Leak,Laser Cutter L2,Pump Vibration,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,86%,REF-2831
+Overheating,Laser Cutter L2,Hydraulic Low,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,76%,REF-5529
+Pressure Drop,Laser Cutter L2,Full System Fault,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,90%,REF-3768
+Valve Failure,Packaging Machine P2,,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-9908
+Sensor Fault,Cooling System C4,Full System Fault,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,78%,REF-8228
+Pressure Drop,Conveyor A1,Vibration Z-Axis,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,81%,REF-3889
+Overheating,Laser Cutter L2,Spindle >80°C,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,74%,REF-8290
+Sensor Fault,Cooling System C4,Pump Vibration,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,73%,REF-3888
+Calibration Error,Conveyor A1,Hydraulic <1.2bar,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-8137
+Pressure Drop,Pump Unit PU9,Vibration Z-Axis,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,86%,REF-1311
+Pressure Drop,Conveyor A1,,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,70%,REF-8002
+Power Surge,Packaging Machine P2,Full System Fault,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,76%,REF-9812
+Network Timeout,Inspection Camera IC7,Spindle Overheat,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,75%,REF-5975
+Hydraulic Leak,Cooling System C4,Hydraulic Low,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,78%,REF-4594
+Software Crash,Pump Unit PU9,Vibration Z-Axis,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,80%,REF-2665
+Mechanical Jam,Inspection Camera IC7,,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,71%,REF-5861
+Hydraulic Leak,Cooling System C4,Pump Vibration,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,82%,REF-7046
+Valve Failure,Laser Cutter L2,,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,96%,REF-3759
+Overheating,Packaging Machine P2,Hydraulic <1.2bar,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,77%,REF-8630
+Sensor Fault,Conveyor A1,Hydraulic Low,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,81%,REF-2723
+Power Surge,Conveyor A1,Hydraulic Low,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,92%,REF-4423
+Hydraulic Leak,Robot Arm R3,Hydraulic <1.2bar,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,79%,REF-7176
+Overheating,Conveyor A1,Coolant Leak,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,91%,REF-8752
+Power Surge,Cooling System C4,Pump Vibration,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,92%,REF-3657
+Sensor Fault,Laser Cutter L2,Full System Fault,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,72%,REF-6845
+Sensor Fault,Laser Cutter L2,Spindle >80°C,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,94%,REF-7111
+Power Surge,Inspection Camera IC7,Pump Vibration,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,82%,REF-9069
+Valve Failure,Packaging Machine P2,Coolant Leak,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,88%,REF-2843
+Software Crash,Robot Arm R3,Pump Vibration,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,72%,REF-4568
+Hydraulic Leak,Inspection Camera IC7,Spindle Overheat,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,73%,REF-4603
+Mechanical Jam,Laser Cutter L2,Pump Vibration,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,93%,REF-5744
+Pressure Drop,Inspection Camera IC7,Hydraulic <1.2bar,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,88%,REF-5436
+Power Surge,Pump Unit PU9,Spindle Overheat,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,94%,REF-6304
+Software Crash,Laser Cutter L2,Coolant Leak,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,79%,REF-3772
+Overheating,Packaging Machine P2,Hydraulic Low,Low lubrication,Identify the defective part and replace it with a certified spare component.,84%,REF-6593
+Pressure Drop,Inspection Camera IC7,Hydraulic <1.2bar,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,71%,REF-1099
+Pressure Drop,Cooling System C4,Spindle Overheat,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,72%,REF-3793
+Sensor Fault,Cooling System C4,Vibration Z-Axis,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,80%,REF-8373
+Hydraulic Leak,Inspection Camera IC7,Spindle Overheat,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,84%,REF-3299
+Network Timeout,Inspection Camera IC7,Hydraulic Low,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,79%,REF-1093
+Sensor Fault,Inspection Camera IC7,Pump Vibration,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,84%,REF-3862
+Sensor Fault,Inspection Camera IC7,Hydraulic Low,Incorrect setup,Identify the defective part and replace it with a certified spare component.,81%,REF-1679
+Network Timeout,Robot Arm R3,,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,99%,REF-6956
+Calibration Error,Inspection Camera IC7,Vibration Z-Axis,Blocked pipe,Identify the defective part and replace it with a certified spare component.,96%,REF-6494
+Sensor Fault,Laser Cutter L2,Spindle Overheat,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,97%,REF-5265
+Hydraulic Leak,Conveyor A1,,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,93%,REF-7379
+Overheating,Pump Unit PU9,Spindle >80°C,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,75%,REF-8626
+Calibration Error,Conveyor A1,,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,82%,REF-8810
+Hydraulic Leak,Cooling System C4,Coolant Leak,Low lubrication,Identify the defective part and replace it with a certified spare component.,78%,REF-5940
+Mechanical Jam,Inspection Camera IC7,,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,78%,REF-4965
+Overheating,Pump Unit PU9,Coolant Leak,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,84%,REF-1418
+Power Surge,Packaging Machine P2,,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,70%,REF-8249
+Valve Failure,Inspection Camera IC7,Full System Fault,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-4945
+Calibration Error,Laser Cutter L2,,Coding bug,Identify the defective part and replace it with a certified spare component.,95%,REF-8909
+Calibration Error,Laser Cutter L2,Hydraulic <1.2bar,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,75%,REF-2007
+Power Surge,Inspection Camera IC7,Pump Vibration,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,95%,REF-2276
+Network Timeout,Packaging Machine P2,Spindle >80°C,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,94%,REF-7308
+Sensor Fault,Cooling System C4,Coolant Leak,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,72%,REF-4826
+Valve Failure,Conveyor A1,Pump Vibration,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,74%,REF-5046
+Calibration Error,Laser Cutter L2,Spindle Overheat,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,85%,REF-5367
+Mechanical Jam,Conveyor A1,,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-5884
+Sensor Fault,Inspection Camera IC7,Coolant Leak,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,76%,REF-9244
+Power Surge,Packaging Machine P2,Coolant Leak,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,93%,REF-7067
+Sensor Fault,Conveyor A1,Spindle >80°C,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,81%,REF-9961
+Overheating,Packaging Machine P2,Hydraulic <1.2bar,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,92%,REF-5561
+Power Surge,Laser Cutter L2,Hydraulic Low,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,97%,REF-1143
+Hydraulic Leak,Cooling System C4,Hydraulic <1.2bar,Incorrect setup,Identify the defective part and replace it with a certified spare component.,80%,REF-6551
+Sensor Fault,Conveyor A1,Spindle >80°C,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,91%,REF-9873
+Power Surge,Cooling System C4,Coolant Leak,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,83%,REF-4711
+Mechanical Jam,Conveyor A1,Hydraulic <1.2bar,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,95%,REF-2951
+Calibration Error,Cooling System C4,Spindle >80°C,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,86%,REF-1765
+Overheating,Pump Unit PU9,Vibration Z-Axis,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,80%,REF-6449
+Calibration Error,Robot Arm R3,Spindle Overheat,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,88%,REF-8929
+Mechanical Jam,Pump Unit PU9,Spindle Overheat,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,79%,REF-5932
+Hydraulic Leak,Pump Unit PU9,Spindle >80°C,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,90%,REF-7766
+Mechanical Jam,Inspection Camera IC7,Pump Vibration,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,74%,REF-2624
+Power Surge,Pump Unit PU9,Hydraulic <1.2bar,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,77%,REF-2652
+Mechanical Jam,Conveyor A1,Spindle >80°C,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,72%,REF-8819
+Overheating,Inspection Camera IC7,Hydraulic Low,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,86%,REF-9039
+Sensor Fault,Inspection Camera IC7,Coolant Leak,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,83%,REF-6565
+Pressure Drop,Cooling System C4,Coolant Leak,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,82%,REF-9355
+Calibration Error,Pump Unit PU9,Vibration Z-Axis,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,91%,REF-2572
+Software Crash,Cooling System C4,Hydraulic Low,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,97%,REF-6021
+Pressure Drop,Cooling System C4,Pump Vibration,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,78%,REF-3477
+Pressure Drop,Packaging Machine P2,Coolant Leak,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,98%,REF-5111
+Software Crash,Laser Cutter L2,Full System Fault,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,76%,REF-1362
+Valve Failure,Cooling System C4,,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,89%,REF-9297
+Network Timeout,Pump Unit PU9,Hydraulic Low,Dust accumulation,Identify the defective part and replace it with a certified spare component.,95%,REF-7524
+Pressure Drop,Packaging Machine P2,Full System Fault,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,85%,REF-8339
+Calibration Error,Laser Cutter L2,Hydraulic <1.2bar,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,80%,REF-9403
+Sensor Fault,Robot Arm R3,Hydraulic Low,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,83%,REF-2945
+Pressure Drop,Inspection Camera IC7,Coolant Leak,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-1105
+Power Surge,Robot Arm R3,Vibration Z-Axis,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,97%,REF-4531
+Valve Failure,Inspection Camera IC7,Vibration Z-Axis,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,74%,REF-3378
+Pressure Drop,Laser Cutter L2,Vibration Z-Axis,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,89%,REF-4291
+Valve Failure,Robot Arm R3,Full System Fault,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,89%,REF-1593
+Hydraulic Leak,Packaging Machine P2,Hydraulic <1.2bar,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,71%,REF-5721
+Calibration Error,Inspection Camera IC7,,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,81%,REF-8341
+Power Surge,Laser Cutter L2,Spindle Overheat,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,84%,REF-1415
+Mechanical Jam,Inspection Camera IC7,Hydraulic <1.2bar,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,80%,REF-6362
+Software Crash,Laser Cutter L2,Vibration Z-Axis,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,77%,REF-2222
+Calibration Error,Pump Unit PU9,Hydraulic Low,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,91%,REF-8758
+Overheating,Cooling System C4,Full System Fault,Dust accumulation,Identify the defective part and replace it with a certified spare component.,90%,REF-7845
+Valve Failure,Conveyor A1,Hydraulic <1.2bar,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,76%,REF-9337
+Calibration Error,Cooling System C4,Vibration Z-Axis,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,86%,REF-3556
+Overheating,Cooling System C4,,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,81%,REF-5171
+Hydraulic Leak,Laser Cutter L2,Hydraulic Low,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,89%,REF-4560
+Power Surge,Conveyor A1,Hydraulic <1.2bar,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,89%,REF-3892
+Mechanical Jam,Robot Arm R3,,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,88%,REF-3540
+Valve Failure,Inspection Camera IC7,Full System Fault,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,90%,REF-3879
+Hydraulic Leak,Pump Unit PU9,Coolant Leak,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,87%,REF-8807
+Sensor Fault,Cooling System C4,Spindle >80°C,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,94%,REF-9750
+Valve Failure,Conveyor A1,,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,73%,REF-9579
+Pressure Drop,Laser Cutter L2,,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,80%,REF-5906
+Mechanical Jam,Cooling System C4,Pump Vibration,Electrical short,Identify the defective part and replace it with a certified spare component.,86%,REF-4998
+Mechanical Jam,Conveyor A1,Spindle >80°C,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,70%,REF-5980
+Software Crash,Pump Unit PU9,Hydraulic <1.2bar,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,91%,REF-7188
+Mechanical Jam,Inspection Camera IC7,Pump Vibration,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,80%,REF-8923
+Pressure Drop,Conveyor A1,Pump Vibration,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,84%,REF-3036
+Mechanical Jam,Robot Arm R3,,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,99%,REF-9342
+Power Surge,Robot Arm R3,Vibration Z-Axis,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,96%,REF-9266
+Sensor Fault,Cooling System C4,Vibration Z-Axis,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,93%,REF-8367
+Hydraulic Leak,Packaging Machine P2,Vibration Z-Axis,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,77%,REF-6890
+Sensor Fault,Pump Unit PU9,Vibration Z-Axis,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,99%,REF-1644
+Mechanical Jam,Robot Arm R3,Spindle Overheat,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,84%,REF-2928
+Mechanical Jam,Cooling System C4,Pump Vibration,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,88%,REF-8481
+Power Surge,Laser Cutter L2,Hydraulic Low,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,90%,REF-4671
+Power Surge,Conveyor A1,Hydraulic <1.2bar,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,85%,REF-4645
+Mechanical Jam,Pump Unit PU9,Spindle >80°C,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,77%,REF-3591
+Valve Failure,Conveyor A1,Full System Fault,Coding bug,Identify the defective part and replace it with a certified spare component.,79%,REF-1366
+Software Crash,Laser Cutter L2,Spindle >80°C,Low lubrication,Identify the defective part and replace it with a certified spare component.,80%,REF-5325
+Valve Failure,Conveyor A1,Hydraulic <1.2bar,Low lubrication,Identify the defective part and replace it with a certified spare component.,93%,REF-8726
+Overheating,Cooling System C4,Hydraulic Low,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,73%,REF-8510
+Overheating,Conveyor A1,Vibration Z-Axis,Low lubrication,Identify the defective part and replace it with a certified spare component.,91%,REF-4163
+Software Crash,Cooling System C4,,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,85%,REF-7772
+Sensor Fault,Inspection Camera IC7,Vibration Z-Axis,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,84%,REF-8053
+Hydraulic Leak,Laser Cutter L2,Hydraulic <1.2bar,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,87%,REF-3545
+Pressure Drop,Robot Arm R3,,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,80%,REF-9294
+Network Timeout,Laser Cutter L2,Spindle >80°C,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,88%,REF-9642
+Pressure Drop,Laser Cutter L2,Spindle >80°C,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,83%,REF-3847
+Pressure Drop,Packaging Machine P2,Hydraulic Low,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,85%,REF-9680
+Hydraulic Leak,Packaging Machine P2,Vibration Z-Axis,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,71%,REF-7659
+Hydraulic Leak,Conveyor A1,Coolant Leak,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,91%,REF-8526
+Software Crash,Laser Cutter L2,Vibration Z-Axis,Blocked pipe,Identify the defective part and replace it with a certified spare component.,73%,REF-5030
+Power Surge,Robot Arm R3,Hydraulic <1.2bar,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,86%,REF-1084
+Overheating,Robot Arm R3,Spindle Overheat,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,89%,REF-1683
+Pressure Drop,Packaging Machine P2,Vibration Z-Axis,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,73%,REF-6440
+Software Crash,Laser Cutter L2,Hydraulic <1.2bar,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,99%,REF-8566
+Overheating,Inspection Camera IC7,Spindle Overheat,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,98%,REF-9600
+Sensor Fault,Pump Unit PU9,Hydraulic Low,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,74%,REF-4723
+Calibration Error,Robot Arm R3,,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,91%,REF-5465
+Sensor Fault,Laser Cutter L2,Pump Vibration,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,96%,REF-3461
+Overheating,Pump Unit PU9,Coolant Leak,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,77%,REF-3179
+Overheating,Packaging Machine P2,Vibration Z-Axis,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,97%,REF-9361
+Software Crash,Laser Cutter L2,Vibration Z-Axis,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,84%,REF-3166
+Pressure Drop,Packaging Machine P2,Pump Vibration,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,70%,REF-7007
+Calibration Error,Pump Unit PU9,Spindle Overheat,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,73%,REF-6814
+Network Timeout,Inspection Camera IC7,Coolant Leak,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,90%,REF-2429
+Mechanical Jam,Inspection Camera IC7,,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,93%,REF-3459
+Sensor Fault,Robot Arm R3,Spindle >80°C,Dust accumulation,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,82%,REF-1089
+Overheating,Laser Cutter L2,Hydraulic Low,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,77%,REF-2306
+Sensor Fault,Pump Unit PU9,Vibration Z-Axis,Dust accumulation,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,96%,REF-5983
+Sensor Fault,Cooling System C4,Hydraulic <1.2bar,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,90%,REF-9273
+Software Crash,Conveyor A1,Pump Vibration,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,82%,REF-8283
+Calibration Error,Packaging Machine P2,Pump Vibration,Electrical short,Identify the defective part and replace it with a certified spare component.,77%,REF-9307
+Software Crash,Pump Unit PU9,Coolant Leak,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,77%,REF-3241
+Hydraulic Leak,Inspection Camera IC7,Hydraulic <1.2bar,Low lubrication,Identify the defective part and replace it with a certified spare component.,71%,REF-2757
+Sensor Fault,Robot Arm R3,Hydraulic <1.2bar,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,96%,REF-5291
+Valve Failure,Pump Unit PU9,,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,79%,REF-4267
+Sensor Fault,Conveyor A1,Vibration Z-Axis,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,98%,REF-7622
+Valve Failure,Pump Unit PU9,Hydraulic <1.2bar,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,90%,REF-6128
+Sensor Fault,Pump Unit PU9,Vibration Z-Axis,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,91%,REF-1080
+Mechanical Jam,Pump Unit PU9,Coolant Leak,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,90%,REF-3672
+Sensor Fault,Packaging Machine P2,Hydraulic Low,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,86%,REF-6638
+Mechanical Jam,Packaging Machine P2,Vibration Z-Axis,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,86%,REF-3389
+Calibration Error,Inspection Camera IC7,Hydraulic <1.2bar,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,78%,REF-9482
+Calibration Error,Conveyor A1,Spindle Overheat,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,84%,REF-8507
+Network Timeout,Laser Cutter L2,Pump Vibration,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,94%,REF-2876
+Power Surge,Packaging Machine P2,Spindle Overheat,Electrical short,Identify the defective part and replace it with a certified spare component.,91%,REF-4615
+Sensor Fault,Inspection Camera IC7,Full System Fault,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,76%,REF-2364
+Valve Failure,Laser Cutter L2,Pump Vibration,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,96%,REF-5651
+Valve Failure,Conveyor A1,Spindle >80°C,Low lubrication,Identify the defective part and replace it with a certified spare component.,84%,REF-5373
+Sensor Fault,Packaging Machine P2,Pump Vibration,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,93%,REF-9790
+Pressure Drop,Cooling System C4,Pump Vibration,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,74%,REF-6584
+Network Timeout,Robot Arm R3,Vibration Z-Axis,Blocked pipe,Identify the defective part and replace it with a certified spare component.,84%,REF-5878
+Mechanical Jam,Laser Cutter L2,Hydraulic <1.2bar,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,92%,REF-1930
+Power Surge,Cooling System C4,Vibration Z-Axis,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,89%,REF-8291
+Pressure Drop,Inspection Camera IC7,Hydraulic <1.2bar,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,79%,REF-4948
+Hydraulic Leak,Inspection Camera IC7,Vibration Z-Axis,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,85%,REF-5754
+Network Timeout,Packaging Machine P2,Pump Vibration,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,96%,REF-8225
+Valve Failure,Laser Cutter L2,Pump Vibration,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,94%,REF-5075
+Valve Failure,Pump Unit PU9,Full System Fault,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,74%,REF-9492
+Pressure Drop,Pump Unit PU9,Pump Vibration,Blocked pipe,Identify the defective part and replace it with a certified spare component.,97%,REF-8159
+Overheating,Conveyor A1,Spindle >80°C,Coding bug,Identify the defective part and replace it with a certified spare component.,99%,REF-5763
+Overheating,Conveyor A1,Pump Vibration,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,84%,REF-1382
+Valve Failure,Laser Cutter L2,Coolant Leak,Low lubrication,Identify the defective part and replace it with a certified spare component.,81%,REF-8799
+Valve Failure,Cooling System C4,Hydraulic <1.2bar,Electrical short,Identify the defective part and replace it with a certified spare component.,89%,REF-7985
+Pressure Drop,Conveyor A1,Hydraulic Low,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,89%,REF-9313
+Power Surge,Robot Arm R3,Hydraulic <1.2bar,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,88%,REF-5854
+Overheating,Laser Cutter L2,Hydraulic <1.2bar,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,92%,REF-2220
+Valve Failure,Cooling System C4,Vibration Z-Axis,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,77%,REF-2434
+Valve Failure,Pump Unit PU9,Spindle >80°C,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,94%,REF-6317
+Pressure Drop,Inspection Camera IC7,Vibration Z-Axis,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,70%,REF-5687
+Mechanical Jam,Cooling System C4,Coolant Leak,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,74%,REF-4158
+Network Timeout,Robot Arm R3,Full System Fault,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,98%,REF-9740
+Hydraulic Leak,Laser Cutter L2,Spindle >80°C,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,85%,REF-2207
+Mechanical Jam,Packaging Machine P2,Full System Fault,Dust accumulation,Identify the defective part and replace it with a certified spare component.,76%,REF-6387
+Calibration Error,Robot Arm R3,Coolant Leak,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,87%,REF-4879
+Hydraulic Leak,Conveyor A1,Spindle Overheat,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,73%,REF-7156
+Overheating,Pump Unit PU9,Pump Vibration,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,72%,REF-6520
+Hydraulic Leak,Conveyor A1,Vibration Z-Axis,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,94%,REF-8275
+Pressure Drop,Packaging Machine P2,Pump Vibration,Blocked pipe,Identify the defective part and replace it with a certified spare component.,97%,REF-1042
+Calibration Error,Packaging Machine P2,Spindle Overheat,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,87%,REF-2730
+Calibration Error,Packaging Machine P2,Hydraulic Low,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,71%,REF-6897
+Calibration Error,Inspection Camera IC7,Hydraulic Low,Blocked pipe,Identify the defective part and replace it with a certified spare component.,91%,REF-3599
+Sensor Fault,Robot Arm R3,Hydraulic Low,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,81%,REF-5334
+Valve Failure,Conveyor A1,Full System Fault,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,93%,REF-4639
+Software Crash,Conveyor A1,Hydraulic <1.2bar,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,78%,REF-1095
+Network Timeout,Inspection Camera IC7,Spindle Overheat,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,99%,REF-5332
+Hydraulic Leak,Packaging Machine P2,Hydraulic <1.2bar,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,92%,REF-3886
+Sensor Fault,Inspection Camera IC7,,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,77%,REF-9900
+Pressure Drop,Conveyor A1,Vibration Z-Axis,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,86%,REF-4134
+Valve Failure,Cooling System C4,Hydraulic <1.2bar,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,99%,REF-5341
+Calibration Error,Pump Unit PU9,Pump Vibration,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,95%,REF-2739
+Sensor Fault,Laser Cutter L2,Coolant Leak,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,91%,REF-3641
+Mechanical Jam,Pump Unit PU9,Pump Vibration,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,93%,REF-6922
+Valve Failure,Inspection Camera IC7,,Low lubrication,Identify the defective part and replace it with a certified spare component.,98%,REF-9278
+Mechanical Jam,Conveyor A1,Hydraulic Low,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,87%,REF-8300
+Valve Failure,Inspection Camera IC7,Coolant Leak,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,91%,REF-9241
+Power Surge,Pump Unit PU9,Pump Vibration,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,94%,REF-5365
+Power Surge,Laser Cutter L2,Spindle Overheat,Dust accumulation,Identify the defective part and replace it with a certified spare component.,94%,REF-4984
+Power Surge,Laser Cutter L2,Hydraulic Low,Low lubrication,Identify the defective part and replace it with a certified spare component.,94%,REF-1803
+Network Timeout,Packaging Machine P2,Full System Fault,Dust accumulation,Identify the defective part and replace it with a certified spare component.,94%,REF-2761
+Pressure Drop,Pump Unit PU9,Spindle >80°C,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,96%,REF-2862
+Network Timeout,Inspection Camera IC7,Hydraulic <1.2bar,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,87%,REF-9135
+Overheating,Packaging Machine P2,Vibration Z-Axis,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,92%,REF-3697
+Valve Failure,Inspection Camera IC7,Coolant Leak,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,82%,REF-2236
+Mechanical Jam,Pump Unit PU9,Coolant Leak,Incorrect setup,Install the latest firmware or software patch to resolve the identified software issue.,79%,REF-3499
+Software Crash,Packaging Machine P2,Pump Vibration,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,72%,REF-1598
+Mechanical Jam,Robot Arm R3,Hydraulic <1.2bar,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,81%,REF-9015
+Pressure Drop,Inspection Camera IC7,Hydraulic <1.2bar,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,73%,REF-2366
+Overheating,Cooling System C4,Pump Vibration,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,81%,REF-3628
+Calibration Error,Inspection Camera IC7,Full System Fault,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,91%,REF-5170
+Sensor Fault,Packaging Machine P2,,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,76%,REF-3710
+Calibration Error,Robot Arm R3,,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,81%,REF-3706
+Overheating,Inspection Camera IC7,,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,87%,REF-6320
+Software Crash,Packaging Machine P2,,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,88%,REF-9409
+Sensor Fault,Inspection Camera IC7,Pump Vibration,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,91%,REF-5991
+Overheating,Laser Cutter L2,Coolant Leak,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-3703
+Calibration Error,Cooling System C4,,Coding bug,Identify the defective part and replace it with a certified spare component.,73%,REF-9807
+Mechanical Jam,Conveyor A1,Coolant Leak,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,81%,REF-4347
+Power Surge,Cooling System C4,Spindle >80°C,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,88%,REF-7245
+Hydraulic Leak,Laser Cutter L2,Hydraulic Low,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,81%,REF-5449
+Mechanical Jam,Robot Arm R3,Coolant Leak,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,71%,REF-8776
+Overheating,Packaging Machine P2,,Dust accumulation,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,70%,REF-2439
+Network Timeout,Pump Unit PU9,Spindle Overheat,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,82%,REF-4908
+Calibration Error,Packaging Machine P2,Spindle Overheat,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,78%,REF-2982
+Mechanical Jam,Packaging Machine P2,Full System Fault,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,79%,REF-7656
+Mechanical Jam,Pump Unit PU9,Vibration Z-Axis,Electrical short,Identify the defective part and replace it with a certified spare component.,72%,REF-5142
+Hydraulic Leak,Packaging Machine P2,Full System Fault,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,82%,REF-3882
+Pressure Drop,Pump Unit PU9,Hydraulic Low,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,84%,REF-8618
+Mechanical Jam,Packaging Machine P2,Spindle Overheat,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,79%,REF-3157
+Calibration Error,Conveyor A1,Spindle >80°C,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,84%,REF-2683
+Hydraulic Leak,Cooling System C4,,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,83%,REF-9768
+Software Crash,Packaging Machine P2,Vibration Z-Axis,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,76%,REF-4249
+Software Crash,Pump Unit PU9,Full System Fault,Blocked pipe,Perform a full system reboot to clear temporary faults and restore normal operation.,84%,REF-1462
+Sensor Fault,Packaging Machine P2,,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,99%,REF-1014
+Sensor Fault,Pump Unit PU9,Coolant Leak,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,98%,REF-4591
+Overheating,Conveyor A1,Full System Fault,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,75%,REF-5215
+Software Crash,Cooling System C4,Coolant Leak,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,99%,REF-2560
+Power Surge,Packaging Machine P2,,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,80%,REF-9579
+Software Crash,Inspection Camera IC7,Hydraulic Low,Blocked pipe,Identify the defective part and replace it with a certified spare component.,97%,REF-9038
+Valve Failure,Packaging Machine P2,Coolant Leak,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,73%,REF-9860
+Mechanical Jam,Pump Unit PU9,Spindle >80°C,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,90%,REF-4982
+Mechanical Jam,Packaging Machine P2,Spindle Overheat,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,90%,REF-8384
+Software Crash,Laser Cutter L2,Hydraulic <1.2bar,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,74%,REF-4093
+Network Timeout,Laser Cutter L2,Spindle Overheat,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,77%,REF-4189
+Calibration Error,Conveyor A1,Hydraulic Low,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,74%,REF-1964
+Valve Failure,Packaging Machine P2,,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,87%,REF-9411
+Mechanical Jam,Laser Cutter L2,Full System Fault,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,82%,REF-8169
+Network Timeout,Pump Unit PU9,Full System Fault,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,92%,REF-7827
+Calibration Error,Pump Unit PU9,Pump Vibration,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,87%,REF-8273
+Network Timeout,Packaging Machine P2,Vibration Z-Axis,Low lubrication,Identify the defective part and replace it with a certified spare component.,76%,REF-4319
+Calibration Error,Laser Cutter L2,Spindle Overheat,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,84%,REF-3326
+Power Surge,Cooling System C4,Coolant Leak,Coding bug,Identify the defective part and replace it with a certified spare component.,92%,REF-1491
+Software Crash,Inspection Camera IC7,Coolant Leak,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,94%,REF-6512
+Network Timeout,Cooling System C4,Vibration Z-Axis,Electrical short,Identify the defective part and replace it with a certified spare component.,98%,REF-9307
+Hydraulic Leak,Laser Cutter L2,Hydraulic Low,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,98%,REF-5650
+Power Surge,Laser Cutter L2,Pump Vibration,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,99%,REF-9224
+Overheating,Inspection Camera IC7,Spindle >80°C,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,92%,REF-5465
+Network Timeout,Pump Unit PU9,Spindle >80°C,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,70%,REF-6536
+Mechanical Jam,Robot Arm R3,Coolant Leak,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,73%,REF-7968
+Pressure Drop,Packaging Machine P2,Full System Fault,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,90%,REF-8914
+Overheating,Laser Cutter L2,Spindle Overheat,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,92%,REF-9429
+Sensor Fault,Conveyor A1,Vibration Z-Axis,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,85%,REF-9372
+Overheating,Robot Arm R3,Hydraulic Low,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,86%,REF-6337
+Power Surge,Pump Unit PU9,Pump Vibration,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,80%,REF-7895
+Network Timeout,Cooling System C4,Pump Vibration,Dust accumulation,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,82%,REF-4341
+Sensor Fault,Inspection Camera IC7,Pump Vibration,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,88%,REF-7637
+Valve Failure,Laser Cutter L2,Hydraulic Low,Dust accumulation,Locate the clogged section in the system and remove the obstruction to restore flow.,99%,REF-5033
+Hydraulic Leak,Inspection Camera IC7,Hydraulic Low,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,80%,REF-3703
+Hydraulic Leak,Packaging Machine P2,Coolant Leak,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,72%,REF-9678
+Calibration Error,Packaging Machine P2,,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,93%,REF-7014
+Software Crash,Robot Arm R3,Hydraulic <1.2bar,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,99%,REF-4065
+Sensor Fault,Conveyor A1,,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,93%,REF-4879
+Overheating,Cooling System C4,Coolant Leak,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,85%,REF-2881
+Power Surge,Robot Arm R3,Spindle >80°C,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,99%,REF-7798
+Sensor Fault,Packaging Machine P2,Hydraulic <1.2bar,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,96%,REF-8985
+Sensor Fault,Laser Cutter L2,Vibration Z-Axis,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,94%,REF-3057
+Overheating,Inspection Camera IC7,Pump Vibration,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,83%,REF-7813
+Calibration Error,Pump Unit PU9,Spindle Overheat,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,74%,REF-2304
+Software Crash,Inspection Camera IC7,Vibration Z-Axis,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,83%,REF-8014
+Valve Failure,Packaging Machine P2,,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,82%,REF-5610
+Overheating,Robot Arm R3,Vibration Z-Axis,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,86%,REF-9110
+Network Timeout,Robot Arm R3,,Blocked pipe,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,88%,REF-9491
+Power Surge,Cooling System C4,Hydraulic Low,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,95%,REF-3672
+Overheating,Robot Arm R3,,Dust accumulation,Identify the defective part and replace it with a certified spare component.,72%,REF-6876
+Calibration Error,Robot Arm R3,Coolant Leak,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,97%,REF-1954
+Mechanical Jam,Robot Arm R3,Spindle >80°C,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,93%,REF-3577
+Sensor Fault,Conveyor A1,Vibration Z-Axis,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,95%,REF-8499
+Valve Failure,Robot Arm R3,Vibration Z-Axis,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,70%,REF-6364
+Pressure Drop,Robot Arm R3,Vibration Z-Axis,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,82%,REF-8032
+Sensor Fault,Laser Cutter L2,Hydraulic <1.2bar,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,93%,REF-5054
+Overheating,Robot Arm R3,Coolant Leak,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,96%,REF-7322
+Calibration Error,Pump Unit PU9,,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,72%,REF-6274
+Power Surge,Robot Arm R3,Hydraulic <1.2bar,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,88%,REF-2505
+Sensor Fault,Conveyor A1,,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,70%,REF-6334
+Pressure Drop,Laser Cutter L2,Spindle >80°C,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,91%,REF-1669
+Valve Failure,Pump Unit PU9,Pump Vibration,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,91%,REF-9484
+Power Surge,Packaging Machine P2,Coolant Leak,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,70%,REF-6683
+Overheating,Robot Arm R3,Vibration Z-Axis,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,70%,REF-1165
+Power Surge,Laser Cutter L2,Pump Vibration,Coding bug,Identify the defective part and replace it with a certified spare component.,75%,REF-4521
+Pressure Drop,Robot Arm R3,Hydraulic <1.2bar,Low lubrication,Perform a full system reboot to clear temporary faults and restore normal operation.,79%,REF-3893
+Network Timeout,Pump Unit PU9,,Coding bug,Identify the defective part and replace it with a certified spare component.,84%,REF-5464
+Pressure Drop,Laser Cutter L2,Pump Vibration,Low lubrication,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,98%,REF-8809
+Software Crash,Laser Cutter L2,,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,78%,REF-9447
+Mechanical Jam,Pump Unit PU9,Pump Vibration,Low lubrication,Locate the clogged section in the system and remove the obstruction to restore flow.,82%,REF-3848
+Power Surge,Laser Cutter L2,Spindle >80°C,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,77%,REF-9142
+Network Timeout,Inspection Camera IC7,Coolant Leak,Low lubrication,Identify the defective part and replace it with a certified spare component.,96%,REF-8254
+Hydraulic Leak,Cooling System C4,Spindle Overheat,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,86%,REF-5825
+Overheating,Cooling System C4,Hydraulic <1.2bar,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,92%,REF-2293
+Mechanical Jam,Cooling System C4,Coolant Leak,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,98%,REF-7465
+Overheating,Packaging Machine P2,Spindle Overheat,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,71%,REF-6710
+Calibration Error,Packaging Machine P2,Hydraulic <1.2bar,Low lubrication,Identify the defective part and replace it with a certified spare component.,90%,REF-8541
+Power Surge,Conveyor A1,Spindle >80°C,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,92%,REF-9614
+Pressure Drop,Packaging Machine P2,Spindle >80°C,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,89%,REF-6228
+Pressure Drop,Inspection Camera IC7,Hydraulic <1.2bar,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,84%,REF-5241
+Valve Failure,Packaging Machine P2,,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,90%,REF-6147
+Pressure Drop,Laser Cutter L2,Vibration Z-Axis,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,84%,REF-6457
+Mechanical Jam,Cooling System C4,Vibration Z-Axis,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,72%,REF-9963
+Pressure Drop,Packaging Machine P2,Vibration Z-Axis,Incorrect alignment,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,89%,REF-2741
+Power Surge,Packaging Machine P2,Hydraulic <1.2bar,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,72%,REF-5466
+Mechanical Jam,Cooling System C4,,Dust accumulation,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,71%,REF-8691
+Overheating,Packaging Machine P2,Hydraulic <1.2bar,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,97%,REF-3421
+Mechanical Jam,Robot Arm R3,Vibration Z-Axis,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,88%,REF-4732
+Hydraulic Leak,Inspection Camera IC7,Vibration Z-Axis,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,79%,REF-7653
+Pressure Drop,Pump Unit PU9,Spindle >80°C,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-8123
+Overheating,Pump Unit PU9,Full System Fault,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,80%,REF-7140
+Valve Failure,Conveyor A1,Spindle Overheat,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,94%,REF-4534
+Pressure Drop,Inspection Camera IC7,Full System Fault,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,98%,REF-4955
+Sensor Fault,Packaging Machine P2,,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,77%,REF-2754
+Software Crash,Pump Unit PU9,Hydraulic Low,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,94%,REF-2426
+Sensor Fault,Inspection Camera IC7,Spindle Overheat,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,91%,REF-1688
+Overheating,Packaging Machine P2,Hydraulic <1.2bar,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,96%,REF-6421
+Power Surge,Laser Cutter L2,,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,83%,REF-9981
+Valve Failure,Cooling System C4,Full System Fault,Incorrect setup,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,80%,REF-2015
+Power Surge,Pump Unit PU9,Hydraulic <1.2bar,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,94%,REF-9790
+Valve Failure,Cooling System C4,Full System Fault,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,92%,REF-1611
+Hydraulic Leak,Inspection Camera IC7,Full System Fault,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,93%,REF-3685
+Software Crash,Conveyor A1,Spindle Overheat,Incorrect alignment,Identify the defective part and replace it with a certified spare component.,78%,REF-8677
+Network Timeout,Conveyor A1,Vibration Z-Axis,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,99%,REF-7998
+Calibration Error,Cooling System C4,Hydraulic Low,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,98%,REF-6891
+Power Surge,Robot Arm R3,Full System Fault,Incorrect alignment,Install the latest firmware or software patch to resolve the identified software issue.,80%,REF-8446
+Hydraulic Leak,Pump Unit PU9,,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,82%,REF-1589
+Calibration Error,Cooling System C4,Vibration Z-Axis,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,83%,REF-5507
+Sensor Fault,Packaging Machine P2,Pump Vibration,Incorrect setup,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,74%,REF-2222
+Mechanical Jam,Cooling System C4,Spindle >80°C,Coding bug,Install the latest firmware or software patch to resolve the identified software issue.,88%,REF-7698
+Software Crash,Robot Arm R3,Hydraulic Low,Low lubrication,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,78%,REF-8254
+Mechanical Jam,Packaging Machine P2,Hydraulic Low,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,80%,REF-6038
+Sensor Fault,Inspection Camera IC7,Vibration Z-Axis,Incorrect setup,Identify the defective part and replace it with a certified spare component.,79%,REF-5577
+Pressure Drop,Laser Cutter L2,Hydraulic <1.2bar,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,88%,REF-8166
+Sensor Fault,Packaging Machine P2,Pump Vibration,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,75%,REF-5026
+Network Timeout,Pump Unit PU9,Hydraulic Low,Electrical short,Locate the clogged section in the system and remove the obstruction to restore flow.,77%,REF-9938
+Mechanical Jam,Packaging Machine P2,,Incorrect alignment,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,71%,REF-5656
+Sensor Fault,Laser Cutter L2,Hydraulic Low,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,72%,REF-5097
+Calibration Error,Robot Arm R3,Spindle Overheat,Coding bug,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,97%,REF-3712
+Network Timeout,Cooling System C4,,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,80%,REF-1667
+Software Crash,Cooling System C4,Hydraulic Low,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,78%,REF-6803
+Power Surge,Pump Unit PU9,Coolant Leak,Coding bug,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-4146
+Overheating,Robot Arm R3,Pump Vibration,Dust accumulation,Perform a full system reboot to clear temporary faults and restore normal operation.,75%,REF-2946
+Overheating,Pump Unit PU9,Vibration Z-Axis,Low lubrication,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,84%,REF-2595
+Sensor Fault,Pump Unit PU9,Vibration Z-Axis,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,71%,REF-6210
+Valve Failure,Laser Cutter L2,Hydraulic <1.2bar,Electrical short,Identify the defective part and replace it with a certified spare component.,98%,REF-6718
+Mechanical Jam,Conveyor A1,Full System Fault,Dust accumulation,Install the latest firmware or software patch to resolve the identified software issue.,96%,REF-2002
+Network Timeout,Conveyor A1,Hydraulic <1.2bar,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,70%,REF-1614
+Software Crash,Laser Cutter L2,Spindle Overheat,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,95%,REF-1555
+Overheating,Pump Unit PU9,Spindle >80°C,Electrical short,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,75%,REF-3200
+Calibration Error,Laser Cutter L2,Hydraulic Low,Electrical short,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,89%,REF-8564
+Pressure Drop,Pump Unit PU9,Pump Vibration,Electrical short,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,79%,REF-9965
+Power Surge,Cooling System C4,,Blocked pipe,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,83%,REF-6444
+Overheating,Laser Cutter L2,Pump Vibration,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,89%,REF-1037
+Calibration Error,Pump Unit PU9,Pump Vibration,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,78%,REF-5944
+Network Timeout,Packaging Machine P2,Full System Fault,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,81%,REF-6900
+Sensor Fault,Pump Unit PU9,,Dust accumulation,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,96%,REF-6868
+Pressure Drop,Pump Unit PU9,,Coding bug,Identify the defective part and replace it with a certified spare component.,87%,REF-9271
+Calibration Error,Packaging Machine P2,Spindle >80°C,Incorrect alignment,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,96%,REF-3002
+Calibration Error,Conveyor A1,Spindle >80°C,Low lubrication,Install the latest firmware or software patch to resolve the identified software issue.,87%,REF-9918
+Calibration Error,Inspection Camera IC7,Coolant Leak,Coding bug,Locate the clogged section in the system and remove the obstruction to restore flow.,85%,REF-1930
+Overheating,Packaging Machine P2,Spindle >80°C,Blocked pipe,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,97%,REF-5049
+Overheating,Pump Unit PU9,Spindle >80°C,Incorrect alignment,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,81%,REF-1515
+Overheating,Pump Unit PU9,,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,82%,REF-1345
+Software Crash,Laser Cutter L2,Hydraulic Low,Low lubrication,Identify the defective part and replace it with a certified spare component.,97%,REF-6621
+Mechanical Jam,Robot Arm R3,Full System Fault,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,79%,REF-4867
+Network Timeout,Cooling System C4,Spindle >80°C,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,80%,REF-1231
+Mechanical Jam,Conveyor A1,Vibration Z-Axis,Incorrect setup,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,93%,REF-7976
+Calibration Error,Conveyor A1,Hydraulic Low,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,82%,REF-3409
+Hydraulic Leak,Packaging Machine P2,Hydraulic Low,Incorrect setup,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,89%,REF-7586
+Hydraulic Leak,Packaging Machine P2,,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,91%,REF-2333
+Calibration Error,Laser Cutter L2,Hydraulic Low,Low lubrication,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,70%,REF-3971
+Power Surge,Robot Arm R3,Pump Vibration,Blocked pipe,Locate the clogged section in the system and remove the obstruction to restore flow.,95%,REF-9722
+Network Timeout,Pump Unit PU9,Coolant Leak,Electrical short,Perform a full system reboot to clear temporary faults and restore normal operation.,70%,REF-7760
+Software Crash,Laser Cutter L2,Coolant Leak,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,70%,REF-7569
+Overheating,Packaging Machine P2,Coolant Leak,Dust accumulation,Identify the defective part and replace it with a certified spare component.,82%,REF-1088
+Mechanical Jam,Cooling System C4,Spindle >80°C,Incorrect setup,Perform a full system reboot to clear temporary faults and restore normal operation.,79%,REF-6598
+Pressure Drop,Pump Unit PU9,Hydraulic <1.2bar,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,77%,REF-4391
+Mechanical Jam,Pump Unit PU9,Hydraulic <1.2bar,Blocked pipe,Install the latest firmware or software patch to resolve the identified software issue.,99%,REF-4970
+Sensor Fault,Packaging Machine P2,Full System Fault,Incorrect alignment,Perform a full system reboot to clear temporary faults and restore normal operation.,88%,REF-8859
+Sensor Fault,Conveyor A1,Hydraulic <1.2bar,Low lubrication,Identify the defective part and replace it with a certified spare component.,92%,REF-8480
+Pressure Drop,Pump Unit PU9,Pump Vibration,Coding bug,Perform a complete recalibration cycle to ensure all measurement systems are aligned.,89%,REF-4943
+Overheating,Pump Unit PU9,Full System Fault,Electrical short,Install the latest firmware or software patch to resolve the identified software issue.,72%,REF-3733
+Hydraulic Leak,Packaging Machine P2,Hydraulic <1.2bar,Electrical short,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,85%,REF-2870
+Mechanical Jam,Laser Cutter L2,Pump Vibration,Incorrect setup,Locate the clogged section in the system and remove the obstruction to restore flow.,96%,REF-8195
+Valve Failure,Robot Arm R3,Vibration Z-Axis,Coding bug,Inspect electrical wiring for loose connections or burns and repair/replace as needed.,85%,REF-1598
+Mechanical Jam,Conveyor A1,Spindle >80°C,Dust accumulation,Remove dust and debris from the sensor using approved cleaning methods to restore accuracy.,76%,REF-4639
+Calibration Error,Packaging Machine P2,,Incorrect alignment,Locate the clogged section in the system and remove the obstruction to restore flow.,97%,REF-1320
+Pressure Drop,Pump Unit PU9,Coolant Leak,Coding bug,Perform a full system reboot to clear temporary faults and restore normal operation.,92%,REF-9198
+Sensor Fault,Packaging Machine P2,Spindle Overheat,Blocked pipe,Apply lubricant to all necessary moving components to reduce friction and prevent wear.,95%,REF-7947
