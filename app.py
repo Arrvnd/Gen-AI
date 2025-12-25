@@ -11,7 +11,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 # ========================================================
 # 🔐 API KEY  (Replace with yours)
 # ========================================================
-api_key = "AIzaSyC6cC9G3RiIJ4e_Yqp0GAJ5RBoYYs0EouE"
+api_key = "GOOGLE_API_KEY"
 os.environ["GOOGLE_API_KEY"] = api_key
 
 
@@ -157,5 +157,6 @@ Answer ONLY using the provided context.
                 st.write(rag_answer(user_query))
         else:
             st.warning("⚠️ Please enter a question.")
+
 
 
